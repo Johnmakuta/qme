@@ -1,0 +1,25 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2023.11.17-h8857fd0_0.conda
+https://conda.anaconda.org/conda-forge/osx-64/libcxx-16.0.6-hd57cbcb_0.conda
+https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.4-h93d8f39_2.conda
+https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.6-h775f41a_0.tar.bz2
+https://conda.anaconda.org/anaconda/osx-64/zlib-1.2.13-h4dc903c_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libffi-3.3-h046ec9c_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1w-h8a1eda9_0.conda
+https://conda.anaconda.org/conda-forge/osx-64/readline-8.2-h9e318b2_1.conda
+https://conda.anaconda.org/anaconda/osx-64/tk-8.6.12-h5d9f67b_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/sqlite-3.41.2-h6c40b1e_0.conda
+https://repo.anaconda.com/pkgs/main/osx-64/python-3.6.13-h88f2d9e_0.conda
+https://conda.anaconda.org/conda-forge/osx-64/certifi-2016.9.26-py36_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/colorama-0.4.4-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pypng-0.20220715.0-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.6-2_cp36m.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/typing_extensions-3.10.0.2-pyha770c72_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wheel-0.36.2-pyhd3deb0d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-49.6.0-py36h79c6626_3.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/typing-extensions-3.10.0.2-hd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pip-20.0.2-py36_1.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/qrcode-7.4.2-pyhd8ed1ab_0.conda
