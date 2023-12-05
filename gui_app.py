@@ -10,13 +10,18 @@ from tkinter import filedialog as fd
 import qrcode
 # this imports the cv2 module for image recognition
 # import cv2 # not currently using
+import platform
+
+os = platform.system()
 
 # creating the window using the Tk() class
 window = Tk()
 # creates title for the window
 window.title('QME - QR Code Generator')
 # adding the window's icon
-window.iconbitmap(window, 'icon.ico')
+if os == 'Windows':
+    window.iconbitmap(window, 'icon.ico')
+
 # dimensions and position of the window
 window.geometry('500x480+440+180')
 # makes the window non-resizable ie. can't drag it into different shapes. 
