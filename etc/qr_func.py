@@ -1,5 +1,5 @@
 import qrcode
-from PIL import Image
+#from PIL import Image
 # from qrcode.image.pure import PyPNGImage
 # from qrcode.image import svg
 
